@@ -18,17 +18,17 @@ page_sections:
     button_text: Join Us
 - template: hero-banner-w-image
   block: hero-2
-  headline: Women In <strong>Tech</strong><br>Dubai
-  content: The community that supports you to learn, grow and network with other female
-    tech professionals in Dubai
+  headline: Women In Tech<br>Dubai
+  content: We are a community that supports you to learn, grow and network with other
+    female tech professionals in Dubai
   cta:
     enabled: true
     url: https://www.meetup.com/Women-In-Tech-Dubai/
     button_text: 'Join on Meetup '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/01/19/margeret-hamilton.jpg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
