@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Women In Tech Dubai
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -9,15 +9,13 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
+  - link: "#events"
+    link_text: Events
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://www.meetup.com/Women-In-Tech-Dubai/
+    button_text: Join Us
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
