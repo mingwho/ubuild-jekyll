@@ -6,6 +6,5 @@ content: yah
 media:
   image: "/uploads/2020/01/19/margeret-hamilton.jpg"
   alt_text: ''
-published: false
 
 ---
