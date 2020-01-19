@@ -26,7 +26,7 @@ page_sections:
     url: https://www.meetup.com/Women-In-Tech-Dubai/
     button_text: 'Join on Meetup '
   image:
-    image: "/uploads/2020/01/19/margeret-hamilton.jpg"
+    image: "/uploads/2020/01/19/girls-discussing.jpg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
