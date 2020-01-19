@@ -19,8 +19,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Women</strong> In <strong>Tech</strong><br>Dubai"
-  content: We are a Dubai-based community that supports you to learn, grow and network
-    with other female tech professionals.
+  content: Tech is not just for boys! We are a community that supports you to learn,
+    grow and network with other female tech professionals in Dubai.
   cta:
     enabled: true
     url: https://www.meetup.com/Women-In-Tech-Dubai/
@@ -55,10 +55,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -72,7 +68,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: 'Looking forward to seeing you in our next meetup ❤︎ '
 
 ---
 foo bar
