@@ -32,13 +32,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Tech Centered</strong> community that helps you to grow your
+    skills and network"
+  content: There's virtually no community in Dubai for professional women who work
+    as software engineers, UX/UI designers, data scientists or developers. Now this
+    is a community for us! Bring your laptop &amp; your friend :)<br><br>What your
+    Meetup will do?<br><br>Our events offer free hands on technical events, study
+    groups, panel discussions, lightning talks, and keynotes featuring influential
+    tech industry experts, innovators, and investors. We help you build the skills
+    you need to raise your professional profile and achieve greater career success.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2020/01/19/laptop-text.jpeg"
+    alt_text: laptop
 - template: content-feature
   block: feature-1
   media_alignment: Right
