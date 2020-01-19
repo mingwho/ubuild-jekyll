@@ -7,6 +7,5 @@ page_sections:
   block: cta-bar
   content: cool
   email_recipient: ''
-published: false
 
 ---
