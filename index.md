@@ -27,7 +27,7 @@ page_sections:
     button_text: 'Join on Meetup '
   image:
     image: "/uploads/2020/01/19/girls-discussing.jpg"
-    alt_text: Product Shot
+    alt_text: Girls Discussing
   background_image: ''
 - template: content-feature
   block: feature-1
